@@ -150,7 +150,7 @@ You can customize the application by:
 
 ## Get in touch with us
 
-Our Contact the PubNub devrel team at [devrel@pubnub.com](mailto:devrel@pubnub.com) if you have any other questions, issues or comments.
+Contact the PubNub devrel team at [devrel@pubnub.com](mailto:devrel@pubnub.com) if you have any other questions, issues or comments.
 
 ## License
 
