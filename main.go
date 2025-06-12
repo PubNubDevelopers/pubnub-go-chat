@@ -140,6 +140,7 @@ func main() {
 
 		if input == "quit" || input == "exit" {
 			fmt.Println("👋 Goodbye!")
+			//  Will trigger a presence leave event
 			pn.UnsubscribeAll()
 			time.Sleep(1 * time.Second) // Give time for unsubscribe
 			break

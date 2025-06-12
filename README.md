@@ -109,7 +109,7 @@ The application uses the following PubNub features:
 
 - **Publish/Subscribe**: Core messaging functionality
 - **Presence**: Tracks when users join/leave the chat
-- **Real-time Events**: Handles incoming messages and status updates through Go channels
+- **Real-time Events**: Handles incoming messages and status updates through PubNub channels
 
 ## Key Components
 
